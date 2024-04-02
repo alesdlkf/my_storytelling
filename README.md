@@ -1,6 +1,6 @@
 
 # Proyecto Storytelling (template): 
-### my_storytelling
+### Raoul el travieso
 Plantilla para crear el storytelling (CDNCAV-b)
 
 Presidentes implicados:  
